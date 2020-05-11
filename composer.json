@@ -27,7 +27,7 @@
     "extra": {
         "installer-name":"cc-summit",
 		"installer-paths" : {
-			"../../mu-plugins/{$name}" : ["type:wordpress-muplugin"]
+			"../wordpress/wp-content/mu-plugins/{$name}" : ["type:wordpress-muplugin"]
 		}
     },
     "scripts": {
