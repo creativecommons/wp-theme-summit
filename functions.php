@@ -2,7 +2,7 @@
 /**
  * Functions: list
  *
- * @version 2020.05.1
+ * @version 2020.06.1
  * @package wp-theme-summit
  */
 
