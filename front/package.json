@@ -1,7 +1,7 @@
 {
-  "name": "wp-theme-certificates",
+  "name": "wp-theme-summit",
   "version": "2020.6.1",
-  "description": "This is a child theme created for the Certificates website",
+  "description": "This is a child theme created for the Global summit website",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativecommons/wp-theme-certificates.git"
+    "url": "git+https://github.com/creativecommons/wp-theme-summit.git"
   },
   "keywords": [
     "WordPress",
@@ -32,7 +32,7 @@
   "author": "Creative Commons",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creativecommons/wp-theme-certificates/issues"
+    "url": "https://github.com/creativecommons/wp-theme-summit/issues"
   },
-  "homepage": "https://github.com/creativecommons/wp-theme-certificates#readme"
+  "homepage": "https://github.com/creativecommons/wp-theme-summit#readme"
 }
