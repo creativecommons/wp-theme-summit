@@ -1,6 +1,6 @@
 {
   "name": "wp-theme-summit",
-  "version": "2020.6.1",
+  "version": "2020.06.1",
   "description": "This is a child theme created for the Global summit website",
   "main": "index.js",
   "dependencies": {},
