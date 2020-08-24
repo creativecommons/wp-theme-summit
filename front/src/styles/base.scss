@@ -1,1 +1,11 @@
 //Summit website base styles
+@include mobile() {
+  .navbar {
+    .navbar-brand {
+      align-items: center;
+      .logo {
+        height: 2.1rem;
+      }
+    }
+  }
+}
