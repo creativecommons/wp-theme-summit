@@ -8,7 +8,7 @@
 	<header class="single-header">
 		<div class="container">
 			<div class="columns is-centered">
-				<div class="column is-10">
+				<div class="column is-12">
 					<?php get_template_part( 'inc/partials/entry/page', 'header' ); ?>
 				</div>
 			</div>
